@@ -1,17 +1,21 @@
-# Project Title
+# Machine Learning Face Detector
 
-One Paragraph of project description goes here
+The goal of this project was to explore machine learning and haarcascades to automatically detect the faces and eyes of individuals facing the webcam. Originally used as an exposure of computer science to middle school and high school students.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Clone this repo into your Python3 environment and run the "Face_Eye_Detector.py" file
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need the following modules:
 
 ```
-Give examples
+numpy
+cv2
+scipy.io
+inception_v3 from keras.applications
+random
 ```
 
 ### Installing
