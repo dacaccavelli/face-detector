@@ -26,7 +26,7 @@ The program can be closed by pressing 'q'.
 
 ## Authors
 
-* **Daniel Caccavelli** - *All work* - [dacaccavelli](https://github.com/dacaccavelli)
+* **Daniel Caccavelli** - [dacaccavelli](https://github.com/dacaccavelli)
 
 
 ## License
